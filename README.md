@@ -4,6 +4,12 @@ Musica is an innovative Android application developed as part of the AndroidX Ha
 
 The project highlights the application of advanced Android development techniques and tools, reflecting the skills and creativity fostered by Imarticus Learning's training programs. It aims to fill the market gap for lightweight, personalized music apps by offering features like offline access, dynamic UI, and efficient data handling. This submission demonstrates our team's ability to tackle real-world problems with a practical and scalable solution, making Musica a standout entry in the hackathon.
 
+##Contribution - Hackathon Team
+| Name                      | Contribution               |
+|---------------------------|----------------------------|
+| TUSHAR MISTRY - 22BCE11477 | Firebase Integration, Backend to Kotlin Frontend Logic. Song Services, Adapters for “Exoplayer” Service Playerlist. |
+| AMAL SHAJI - 22BPS1016 | Layout Build-Ups for the UI interface and Component Design. Strings, Layout ids etc. |
+
 ## Screenshots
 | Screenshot                | Description                |
 |---------------------------|----------------------------|
