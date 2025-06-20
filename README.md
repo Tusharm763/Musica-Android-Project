@@ -5,26 +5,17 @@ Musica is an innovative Android application developed as part of the AndroidX Ha
 The project highlights the application of advanced Android development techniques and tools, reflecting the skills and creativity fostered by Imarticus Learning's training programs. It aims to fill the market gap for lightweight, personalized music apps by offering features like offline access, dynamic UI, and efficient data handling. This submission demonstrates our team's ability to tackle real-world problems with a practical and scalable solution, making Musica a standout entry in the hackathon.
 
 ## Screenshots
-- **ss1**: Splash Screen  
-  ![Splash Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png)
-- **ss2**: Home Library Page  
-  ![Home Library Page](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png)
-- **ss3**: Home, Adding Song Dialog  
-  ![Adding Song Dialog](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png)
-- **ss4**: Song Player Screen  
-  ![Song Player Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png)
-- **ss5**: Notification Panel for Song Player  
-  ![Notification Panel](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png)
+| Screenshot                | Description                | Link                              |
+|---------------------------|----------------------------|-----------------------------------|
+| ![Splash Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png) | ss1: Splash Screen         |                                   |
+| ![Home Library Page](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png) | ss2: Home Library Page  |                                   |
+| ![Adding Song Dialog](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png) | ss3: Home, Adding Song Dialog |                                   |
+| ![Song Player Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png) | ss4: Song Player Screen   |                                   |
+| ![Notification Panel](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png) | ss5: Notification Panel for Song Player |                                   |
 
-## Video
-- **Video 1**: 4 Minute Demo  
-  [Watch Demo](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Video_00H-03M-08S.webm)
-
-## PPT
-- [Project Presentation](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/presentation.ppt)
-
-## APK
-- [Download APK](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Musica-Devcraft-pre-released.apk)
-
-## Submission Details
-- Submitted on: Friday, June 20, 2025, 12:36 PM IST
+## Resources
+| Type            | Description                | Link                              |
+|-----------------|----------------------------|-----------------------------------|
+| Video           | Video 1: 4 Minute Demo     | [Watch Demo](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Video_00H-03M-08S.webm) |
+| PPT             | Project Presentation       | [Project Presentation](path/to/presentation.ppt) |
+| APK             | Download APK               | [Download APK](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Musica-Devcraft-pre-released.apk) |
