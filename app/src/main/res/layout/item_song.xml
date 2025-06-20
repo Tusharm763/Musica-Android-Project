@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/volume_control_background"
+    android:gravity="center_vertical">
+
+
+    <ImageView
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:src="@drawable/ic_music_note"
+        android:background="@drawable/circle_background"
+        android:padding="8dp"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/music_icon" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textSongName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/song_name"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:letterSpacing="0.1"
+            android:textColor="@color/purple_500" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tap_to_play"
+            android:textSize="14sp"
+            android:letterSpacing="0.09"
+            android:textStyle="bold"
+            android:textColor="@android:color/darker_gray"
+            android:layout_marginTop="4dp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@android:drawable/ic_media_play"
+        android:contentDescription="@string/play_button" />
+
+</LinearLayout>

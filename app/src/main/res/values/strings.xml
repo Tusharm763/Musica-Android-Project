@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Musica</string>
+    <string name="app_logo">App Logo</string>
+    <string name="title_text">Musica App</string>
+    <string name="subtitle_text">by Devcraft</string>
+    <string name="music_library">Music Library</string>
+    <string name="no_songs_found_add_some_songs_to_firebase">No songs found. Add some songs to Firebase!</string>
+    <string name="album_art">Album Art</string>
+    <string name="song_name">Song Name</string>
+    <string name="previous">Previous</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="next">Next</string>
+    <string name="music_icon">Music Icon</string>
+    <string name="tap_to_play">Tap for More</string>
+    <string name="play_button">Play Button</string>
+    <string name="no_songs_found_tap_to_add_some_songs">No songs found. Tap + to add some songs!</string>
+    <string name="volume_down">Volume Down</string>
+    <string name="volume_up">Volume Up</string>
+    <string name="default_percent">60%</string>
+    <string name="minus_icon">-</string>
+    <string name="plus_icon">+</string>
+    <string name="mute_unmute">Mute/Unmute</string>
+    <string name="rewind_10_seconds">Rewind 10 seconds</string>
+    <string name="_0_00">0:00</string>
+    <string name="fast_forward_10_seconds">Fast Forward 10 seconds</string>
+    <string name="volume">Volume</string>
+    <string name="login_register">Login/Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="_icon_add_song">+ Add Song</string>
+</resources>
