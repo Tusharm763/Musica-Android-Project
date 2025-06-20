@@ -7,11 +7,11 @@ The project highlights the application of advanced Android development technique
 ## Screenshots
 | Screenshot                | Description                | Link                              |
 |---------------------------|----------------------------|-----------------------------------|
-| ![Splash Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png) | ss1: Splash Screen         |                                   |
-| ![Home Library Page](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png) | ss2: Home Library Page  |                                   |
-| ![Adding Song Dialog](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png) | ss3: Home, Adding Song Dialog |                                   |
-| ![Song Player Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png) | ss4: Song Player Screen   |                                   |
-| ![Notification Panel](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png) | ss5: Notification Panel for Song Player |                                   |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png" width="300" height="200"> | ss1: Splash Screen         |                                   |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png" width="300" height="200"> | ss2: Home Library Page  |                                   |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png" width="300" height="200"> | ss3: Home, Adding Song Dialog |                                   |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png" width="300" height="200"> | ss4: Song Player Screen   |                                   |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png" width="300" height="200"> | ss5: Notification Panel for Song Player |                                   |
 
 ## Resources
 | Type            | Description                | Link                              |
