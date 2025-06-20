@@ -7,8 +7,8 @@ The project highlights the application of advanced Android development technique
 ## Contribution - Hackathon Team
 | Name                      | Contribution               |
 |---------------------------|----------------------------|
-| AMAL SHAJI - 22BPS1016 | Layout Build-Ups for the UI interface and Component Design. Strings, Layout ids etc. |
-| TUSHAR MISTRY - 22BCE11477 | Firebase Integration, Backend to Kotlin Frontend Logic. Song Services, Adapters for “Exoplayer” Service Playerlist. |
+| AMAL SHAJI - 22BPS1016 - Batch 1 | Layout Build-Ups for the UI interface and Component Design. Strings, Layout ids etc. |
+| TUSHAR MISTRY - 22BCE11477 - Batch 2 | Firebase Integration, Backend to Kotlin Frontend Logic. Song Services, Adapters for “Exoplayer” Service Playerlist. |
 
 ## Screenshots
 | Screenshot                | Description                |
