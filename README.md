@@ -19,8 +19,12 @@ The project highlights the application of advanced Android development technique
 ## Video
 - **Video 1**: 4 Minute Demo  
   [Watch Demo](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Video_00H-03M-08S.webm)
+
 ## PPT
-- [Project Presentation](path/to/presentation.ppt)
+- [Project Presentation](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/presentation.ppt)
 
 ## APK
 - [Download APK](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Musica-Devcraft-pre-released.apk)
+
+## Submission Details
+- Submitted on: Friday, June 20, 2025, 12:36 PM IST
