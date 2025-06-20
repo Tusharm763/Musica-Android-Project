@@ -1,4 +1,4 @@
-# Musica - Android Hackathon Project
+# Musica - Android Hackathon Project by DEVCRAFT TEAM
 
 Musica is an innovative Android application developed as part of the AndroidX Hackathon organized by Imarticus Learning and Certifications. This project showcases a modern music streaming solution designed to address the need for a customizable and user-friendly music library management system. Built by a dedicated team of developers, the app allows users to add songs via URLs, organize their personal collections, and enjoy seamless playback with intuitive controls, all optimized for the Android platform.
 
