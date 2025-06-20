@@ -5,13 +5,13 @@ Musica is an innovative Android application developed as part of the AndroidX Ha
 The project highlights the application of advanced Android development techniques and tools, reflecting the skills and creativity fostered by Imarticus Learning's training programs. It aims to fill the market gap for lightweight, personalized music apps by offering features like offline access, dynamic UI, and efficient data handling. This submission demonstrates our team's ability to tackle real-world problems with a practical and scalable solution, making Musica a standout entry in the hackathon.
 
 ## Screenshots
-| Screenshot                | Description                | Link                              |
-|---------------------------|----------------------------|-----------------------------------|
-| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png" width="275" height="500"> | ss1: Splash Screen         |                                   |
-| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png" width="275" height="500"> | ss2: Home Library Page  |                                   |
-| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png" width="275" height="500"> | ss3: Home, Adding Song Dialog |                                   |
-| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png" width="275" height="500"> | ss4: Song Player Screen   |                                   |
-| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png" width="275" height="500"> | ss5: Notification Panel for Song Player |                                   |
+| Screenshot                | Description                |
+|---------------------------|----------------------------|
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png" width="275" height="500"> | ss1: Splash Screen         |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png" width="275" height="500"> | ss2: Home Library Page  | 
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png" width="275" height="500"> | ss3: Home, Adding Song Dialog |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png" width="275" height="500"> | ss4: Song Player Screen   |
+| <img src="https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png" width="275" height="500"> | ss5: Notification Panel for Song Player |
 
 ## Resources
 | Type            | Description                | Link                              |
