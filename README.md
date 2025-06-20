@@ -1,0 +1,26 @@
+# Musica - Android Hackathon Project
+
+Musica is an innovative Android application developed as part of the AndroidX Hackathon organized by Imarticus Learning and Certifications. This project showcases a modern music streaming solution designed to address the need for a customizable and user-friendly music library management system. Built by a dedicated team of developers, the app allows users to add songs via URLs, organize their personal collections, and enjoy seamless playback with intuitive controls, all optimized for the Android platform.
+
+The project highlights the application of advanced Android development techniques and tools, reflecting the skills and creativity fostered by Imarticus Learning's training programs. It aims to fill the market gap for lightweight, personalized music apps by offering features like offline access, dynamic UI, and efficient data handling. This submission demonstrates our team's ability to tackle real-world problems with a practical and scalable solution, making Musica a standout entry in the hackathon.
+
+## Screenshots
+- **ss1**: Splash Screen  
+  ![Splash Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/0Screenshot_Splash.png)
+- **ss2**: Home Library Page  
+  ![Home Library Page](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/1Screenshot_Home_Library.png)
+- **ss3**: Home, Adding Song Dialog  
+  ![Adding Song Dialog](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/2Screenshot_Home_Add_Song.png)
+- **ss4**: Song Player Screen  
+  ![Song Player Screen](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/3Screenshot_Song_Playlist_Player.png)
+- **ss5**: Notification Panel for Song Player  
+  ![Notification Panel](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/4Screenshot_Notification_Song_Playlist_Player.png)
+
+## Video
+- **Video 1**: 4 Minute Demo  
+  [Watch Demo](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Video_00H-03M-08S.webm)
+## PPT
+- [Project Presentation](path/to/presentation.ppt)
+
+## APK
+- [Download APK](https://github.com/Tusharm763/Musica-Android-Project/blob/master/_Project-Info-PPT-Video-Screenshots/Musica-Devcraft-pre-released.apk)
